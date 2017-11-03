@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CalendarioBasico
+comment1.params=
+comment1.target=CalendarioBasico()
+comment1.text=\r\nconstructor\ de\ clase\ CalendarioBasico\r\n
+comment2.params=nuevoDia\ nuevoMes\ nuevoAnio
+comment2.target=void\ fijarFecha(int,\ int,\ int)
+comment2.text=\r\nFijamos\ fecha\ nueva\r\n
+comment3.params=
+comment3.target=java.lang.String\ obtenerFecha()
+comment3.text=\r\nmetodo\ para\ obtener\ la\ fecha\r\n
+comment4.params=
+comment4.target=void\ avanzarFecha()
+comment4.text=\r\navanzar\ un\ dia\ en\ la\ fecha\r\n
+numComments=5
